@@ -1,2 +1,4 @@
-# back-joon
- 뒤준
+# algo_study
+
+- BaekJoon
+- LeetCode
