@@ -16,3 +16,5 @@ for i in range(k):
     make_fractal(int(pow(2, i)))
 for i in range(n):
     print(s[i])
+
+print('hoho')
