@@ -2,5 +2,3 @@
 
 - Python
 - Javascript
-
-why?
