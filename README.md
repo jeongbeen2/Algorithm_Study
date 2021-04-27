@@ -1,6 +1,6 @@
 # algo_study
 
-- BaekJoon
-- LeetCode
+- Python
+- Javascript
 
-## 🔥Algo Study Hard!!!!🔥
+why?
